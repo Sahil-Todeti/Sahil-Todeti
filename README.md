@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sahil-Todeti
+- 👋 Hi, I’m Sahil-Todeti
 - 👀 I’m interested in coding and movies
 - 🌱 I’m currently learning C/Java/Python
 - 💞️ I’m looking to collaborate on ...
